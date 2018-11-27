@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Indonesian Culture</string>
+    <string-array name="name">
+        <item>Wayang</item>
+        <item> Angklung</item>
+        <item>Keris</item>
+        <item>Tari Saman</item>
+        <item>Reog Ponorogo</item>
+        <item>Tari Kecak</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Wayang merupakan seni pertunjukan yang dimainkan oleh seorang dalang dan biasanya diiringi musik gamelan dan suara merdu soerang pesinden. Kisah yang diceritakan dalam lakon pewayangan biasanya berkisar tentang kisah para punakawan seperti Petruk, Semar, bagong, dan Gareng.</item>
+        <item>Angklung merupakan alat musik kesenian tradisional dari Jawa Barat bernada ganda yang dimainkan dengan cara digoyangkan (baca: nama alat musik tradisional ). Alat musik Angklung Indonesia telah mendapat pengakuan resmi dari UNESCO sebagai bagian dari World Heritage pada 19 Januari 2011. Sertifikat pun diserahkan oleh mantan Duta Besar RI untuk UNESCO, Tresna Dermawan Kunaefi kepada Menteri Pendidikan Nasional pada masa itu, yaitu Muhammad Nuh.</item>
+        <item>Keris adalah  senjata tradisional dari Indonesia yang diyakini mengandung kekuatan magis atau supranatural. Keris biasanya digunakan oleh para anggota kerajaan sebagai senjata pusaka yang dituakan. Keris sendiri telah digunakan di Indonesia sejak abad ke-9, keris terbuat  dari logam berkualitas, bahkan untuk keris kuno, banyak ditemukan terbuat dari bahan logam meteor yang jatuh kebumi. Menurut para peneliti keris kuno seridaknya  mengandung unsur logam titanium, suatu bahan yang baru pada abad 20 digunakan sebagai bahan pelapis kendaraan untuk  luar angkasa . Gagang keris sendiri biasanya terbuat dari tulang belulang, kayu, ataupun tanduk binatang.UNESCO juga mengakui Keris sebagai “Masterpiece of the Oral and Intangible Heritage of Humanity” pada tanggal 25 November 2005.</item>
+        <item>Tari Saman merupakan tarian yang berasal dari suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat daerah setempat. Syair yang digunakan dalam tarian Saman menggunakan campuran bahasa Arab dan bahasa Gayo (baca: Makna tari saman dari aceh). Dalam beberapa referensi menyebutkan bahwa tari Saman di Aceh didirikan dan dikembangkan oleh Syekh Saman, seorang ulama yang berasal dari daerah Gayo di Aceh Tenggara.
+
+</item>
+        <item>Reog Ponorogo merupakan salah satu warisan budaya Indonesia yang berasal dari daerah Jawa Timur, Reog Ponorogo adalah salah satu kesenian tradisional yang berupa tarian yangsampai saat ini masih terus dijaga kelestariannya oleh masyarakat setempat. Sebagai daerah yang terkenal sebagai kota asal reog ponorogo gerbang kota ini dihiasi oleh dua sosok yang biasanya tampil dalam pertunjukan reog, yaitu sosok Warok dan Gemblak. \n Dalam pementasan Reog Ponorogo tidak ada skenario tarian yang pasti dan paten, biasanya seniman reog mementaskan berdasarkan aadegan yang telah dipelajarinya dengan tambahan gerak mengayun-ayunkan bagian kepala reog, kadang kala pementasan reog juga mengikutsertakan para penonton, pemain reog kadangkala berinteraksi dengan penonton, tentu saja dengan selalu memperhatikan intruksi dari pemain dan dalang.</item>
+        <item>Tari kecak merupakan tarian tradisional yang berasal dari Bali, tarian ini juga biasa disebut juga sebagai tari “cak” atau tari api. Tari kecak adalah sebuah tarian yang biasanya dibawakan sebagai sendratari yang dipertunjukan massal dan tari hiburan yang didalamnya terdapat unsur drama. penggolongan tari kecak sebagai sendratari karena dari keseluruhan pertujukan tari kecak akan menggambarkan seni peran dari cerita pewayangngan seperti memerankan tokoh rama dan Sinta. Tari ini juga khusus digunakan untuk sebuah ritual keagamaan masyarakat Hindu di Bali.</item>
+    </string-array>
+</resources>
